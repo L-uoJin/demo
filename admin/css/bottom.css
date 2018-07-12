@@ -1,0 +1,16 @@
+.bottom_div1{
+	background-image: url(../../image/splitter.png);
+	height: 9px;
+}
+
+
+.bottom_div2{
+	background-image: url(../../image/top_bg.png);
+}
+
+.bottom_td{
+	text-align: center;
+	color: white;
+	font-weight: bold;
+	vertical-align: middle;
+}
